@@ -1,0 +1,10 @@
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.GatewayServer <init>
+INFO: GatewayServer created and starting
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.GatewayServer <init>
+INFO: GatewayPeerServerImpl started
+Dec 09, 2022 12:34:35 AM edu.yu.cs.com3800.stage5.GatewayServer run
+INFO: GatewayServer running
+Dec 09, 2022 12:34:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: GatewayServer received a request from a client
+Dec 09, 2022 12:34:40 AM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: Connected to leader on port: 8050

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f3ecb2f-68ec-435b-a525-c6cb3694ecdf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Networking/SMTPClient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Networking/skeleton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/ZooKeeperLeaderElection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/ZooKeeperLeaderElection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/JavaRunnerFollower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/JavaRunnerFollower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/RoundRobinLeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/RoundRobinLeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/Stage3PeerServerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/ZooKeeperPeerServerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/ZooKeeperPeerServerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.11" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.12" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.14" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.15" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.33.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com3800/stage4/log.log.47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com3800/stage4Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/ZooKeeperLeaderElection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/ZooKeeperLeaderElection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/JavaRunnerFollower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/JavaRunnerFollower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/RoundRobinLeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/RoundRobinLeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/Stage3PeerServerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/ZooKeeperPeerServerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/ZooKeeperPeerServerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.12" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.14" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.15" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.2" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.3" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.33.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.4" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/yu/cs/com3800/stage4/log.log.47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.yu.cs.com3800.stage4Tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.yu.cs.com3800.stage4Tests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/edu/yu/cs/com3800/stage4Tests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2I9SWl7FuhJfvtDC1XJq5NTrevE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f3ecb2f-68ec-435b-a525-c6cb3694ecdf" name="Changes" comment="" />
+      <created>1669592343962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669592343962</updated>
+      <workItem from="1669592346159" duration="505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

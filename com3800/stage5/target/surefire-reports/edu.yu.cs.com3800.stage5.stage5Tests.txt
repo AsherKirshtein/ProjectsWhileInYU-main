@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: edu.yu.cs.com3800.stage5.stage5Tests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 41.369 s <<< FAILURE! - in edu.yu.cs.com3800.stage5.stage5Tests
+smallDeadLeaderTest(edu.yu.cs.com3800.stage5.stage5Tests)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.smallDeadLeaderTest(stage5Tests.java:41)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.smallDeadLeaderTest(stage5Tests.java:41)
+
+deadRandomTest(edu.yu.cs.com3800.stage5.stage5Tests)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadRandomTest(stage5Tests.java:46)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadRandomTest(stage5Tests.java:46)
+
+noErrorTestFewServers(edu.yu.cs.com3800.stage5.stage5Tests)  Time elapsed: 8.994 s  <<< ERROR!
+java.io.IOException: HTTP/1.1 header parser received no bytes
+	at edu.yu.cs.com3800.stage5.stage5Tests.noErrorTestFewServers(stage5Tests.java:29)
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+Caused by: java.io.EOFException: EOF reached while reading
+
+deadRandomTestFewServer(edu.yu.cs.com3800.stage5.stage5Tests)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadRandomTestFewServer(stage5Tests.java:52)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadRandomTestFewServer(stage5Tests.java:52)
+
+deadLeaderTest(edu.yu.cs.com3800.stage5.stage5Tests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadLeaderTest(stage5Tests.java:35)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadLeaderTest(stage5Tests.java:35)
+
+noErrorTest(edu.yu.cs.com3800.stage5.stage5Tests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.noErrorTest(stage5Tests.java:23)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.noErrorTest(stage5Tests.java:23)
+

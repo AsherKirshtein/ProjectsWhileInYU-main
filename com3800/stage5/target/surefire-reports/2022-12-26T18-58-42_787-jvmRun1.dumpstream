@@ -1,0 +1,53 @@
+# Created at 2022-12-26T18:59:00.654
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-26T18:59:20.697
+Unexpected IOException with stream: Hopefully Doing the election again
+
+
+# Created at 2022-12-26T18:59:20.733
+Unexpected IOException with stream: Server on port 8010 whose ID is 0 has no leader and its state is LOOKING
+
+
+# Created at 2022-12-26T18:59:20.734
+Unexpected IOException with stream: Server on port 8020 whose ID is 1 has no leader and its state is LOOKING
+
+
+# Created at 2022-12-26T18:59:20.735
+Unexpected IOException with stream: Server on port 8030 whose ID is 2 has no leader and its state is LOOKING
+
+
+# Created at 2022-12-26T18:59:20.736
+Unexpected IOException with stream: Server on port 8040 whose ID is 3 has no leader and its state is LOOKING
+
+
+# Created at 2022-12-26T18:59:28.543
+Unexpected IOException with stream: Gateway server has no leader
+
+
+# Created at 2022-12-26T18:59:50.014
+Unexpected IOException with stream: Dec 26, 2022 6:59:49 PM edu.yu.cs.com3800.UDPMessageSender run
+SEVERE: Exiting UDPMessageSender.run()
+
+
+# Created at 2022-12-26T18:59:50.023
+Unexpected IOException with stream: Dec 26, 2022 6:59:34 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl shutdown
+INFO: 0: Zookeeper Is shutting down
+
+
+# Created at 2022-12-26T18:59:55.421
+Unexpected IOException with stream: Dec 26, 2022 6:59:49 PM edu.yu.cs.com3800.UDPMessageReceiver run
+SEVERE: Exiting UDPMessageReceiver.run()
+
+
+# Created at 2022-12-26T18:59:55.453
+Unexpected IOException with stream: Dec 26, 2022 6:59:55 PM edu.yu.cs.com3800.UDPMessageSender run
+SEVERE: Exiting UDPMessageSender.run()
+
+

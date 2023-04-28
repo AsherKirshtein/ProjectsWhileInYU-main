@@ -1,0 +1,36 @@
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 09, 2022 12:34:26 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 09, 2022 12:34:27 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Starting java runner follower on port: 8020
+Dec 09, 2022 12:34:27 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Starting java runner follower on port: 8040
+Dec 09, 2022 12:34:27 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Starting java runner follower on port: 8010
+Dec 09, 2022 12:34:27 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Starting java runner follower on port: 8030
+Dec 09, 2022 12:34:27 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl: 4 in LEADING state, starting leader
+Dec 09, 2022 12:34:27 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl: 4 in LEADING state, starting leader

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.yu.cs.com3800.stage5.stage5Tests" time="41.369" tests="7" errors="6" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\18436\Desktop\Code\YU_GitHub\Kirshtein_Asher_800610242\com3800\stage5\target\test-classes;C:\Users\18436\Desktop\Code\YU_GitHub\Kirshtein_Asher_800610242\com3800\stage5\target\classes;C:\Users\18436\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\18436\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin"/>
+    <property name="sun.java.command" value="C:\Users\18436\AppData\Local\Temp\surefire17357588596027831753\surefirebooter5381029117472535238.jar C:\Users\18436\AppData\Local\Temp\surefire17357588596027831753 2022-12-26T18-15-36_565-jvmRun1 surefire10255008453727658390tmp surefire_018380878181618131901tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\18436\Desktop\Code\YU_GitHub\Kirshtein_Asher_800610242\com3800\stage5\target\test-classes;C:\Users\18436\Desktop\Code\YU_GitHub\Kirshtein_Asher_800610242\com3800\stage5\target\classes;C:\Users\18436\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\18436\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\18436"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.5"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\18436\Desktop\Code\YU_GitHub\Kirshtein_Asher_800610242\com3800\stage5"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\18436\AppData\Local\Temp\surefire17357588596027831753\surefirebooter5381029117472535238.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.5+9-LTS-191"/>
+    <property name="user.name" value="18436"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\18436\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\18436\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.5"/>
+    <property name="user.dir" value="C:\Users\18436\Desktop\Code\YU_GitHub\Kirshtein_Asher_800610242\com3800\stage5"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\18436\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\18436\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.8.6\bin;C:\Program Files\Java\jdk-17.0.5\bin;C:\Users\18436\AppData\Local\Microsoft\WindowsApps;C:\Users\18436\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.5+9-LTS-191"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="deadLeaderFewServersNoClient" classname="edu.yu.cs.com3800.stage5.stage5Tests" time="32.323"/>
+  <testcase name="smallDeadLeaderTest" classname="edu.yu.cs.com3800.stage5.stage5Tests" time="0.007">
+    <error message="java.net.BindException: Address already in use: bind" type="java.lang.RuntimeException">java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.smallDeadLeaderTest(stage5Tests.java:41)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.smallDeadLeaderTest(stage5Tests.java:41)
+</error>
+    <system-err><![CDATA[Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.UDPMessageReceiver run
+SEVERE: Exiting UDPMessageReceiver.run()
+]]></system-err>
+  </testcase>
+  <testcase name="deadRandomTest" classname="edu.yu.cs.com3800.stage5.stage5Tests" time="0.001">
+    <error message="java.net.BindException: Address already in use: bind" type="java.lang.RuntimeException">java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadRandomTest(stage5Tests.java:46)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadRandomTest(stage5Tests.java:46)
+</error>
+  </testcase>
+  <testcase name="noErrorTestFewServers" classname="edu.yu.cs.com3800.stage5.stage5Tests" time="8.994">
+    <error message="HTTP/1.1 header parser received no bytes" type="java.io.IOException">java.io.IOException: HTTP/1.1 header parser received no bytes
+	at edu.yu.cs.com3800.stage5.stage5Tests.noErrorTestFewServers(stage5Tests.java:29)
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+Caused by: java.io.EOFException: EOF reached while reading
+</error>
+    <system-out><![CDATA[Created OBSERVER on port 6969
+Server on port 8050 whose ID is 0 has the following ID as its leader: 3 and its state is FOLLOWING
+Server on port 8060 whose ID is 1 has the following ID as its leader: 3 and its state is FOLLOWING
+Server on port 8070 whose ID is 2 has the following ID as its leader: 3 and its state is FOLLOWING
+Server on port 8080 whose ID is 3 has the following ID as its leader: 3 and its state is LEADING
+Server on port 6969 whose ID is 8 has no leader and its state is OBSERVER
+Gateway server has no leader
+Client created
+Sending compile and run request with package edu.yu.cs.com3800.stage5;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "Hello world! from code version 0";
+    }
+}
+
+]]></system-out>
+    <system-err><![CDATA[Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: 0: Server Running
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: 1: Server Running
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: 2: Server Running
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.GatewayServer <init>
+INFO: GatewayServer created and starting
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setPeerState
+INFO: 8: my state is now OBSERVER
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.GatewayServer <init>
+INFO: GatewayPeerServerImpl started
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: 3: Server Running
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: 8: Server Running
+Dec 26, 2022 6:16:09 PM edu.yu.cs.com3800.UDPMessageReceiver run
+SEVERE: failed to create receiving socket
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1194)
+	at java.base/sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1164)
+	at java.base/sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107)
+	at java.base/java.net.DatagramSocket.createDelegate(DatagramSocket.java:1426)
+	at java.base/java.net.DatagramSocket.<init>(DatagramSocket.java:330)
+	at edu.yu.cs.com3800.UDPMessageReceiver.run(UDPMessageReceiver.java:36)
+
+Dec 26, 2022 6:16:10 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: 0: setting current leader to 1
+Dec 26, 2022 6:16:10 PM edu.yu.cs.com3800.UDPMessageReceiver run
+SEVERE: Exiting UDPMessageReceiver.run()
+Dec 26, 2022 6:16:11 PM edu.yu.cs.com3800.UDPMessageReceiver run
+SEVERE: Exiting UDPMessageReceiver.run()
+Dec 26, 2022 6:16:12 PM edu.yu.cs.com3800.UDPMessageReceiver run
+SEVERE: Exiting UDPMessageReceiver.run()
+Dec 26, 2022 6:16:12 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setPeerState
+INFO: 0: my state is now FOLLOWING
+Dec 26, 2022 6:16:12 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setPeerState
+INFO: 1: my state is now FOLLOWING
+Dec 26, 2022 6:16:12 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setPeerState
+INFO: 3: my state is now LEADING
+Dec 26, 2022 6:16:12 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: 0: setting current leader to 3
+Dec 26, 2022 6:16:12 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: 1: setting current leader to 3
+Dec 26, 2022 6:16:12 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: 3: setting current leader to 3
+Dec 26, 2022 6:16:12 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setPeerState
+INFO: 2: my state is now FOLLOWING
+Dec 26, 2022 6:16:12 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: 2: setting current leader to 3
+Dec 26, 2022 6:16:14 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: 0: setting current leader to 3
+Dec 26, 2022 6:16:14 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: 3: setting current leader to 3
+Dec 26, 2022 6:16:14 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: 1: setting current leader to 3
+Dec 26, 2022 6:16:14 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl setCurrentLeader
+INFO: 2: setting current leader to 3
+Dec 26, 2022 6:16:18 PM edu.yu.cs.com3800.stage5.GatewayServer$MyHandler handle
+INFO: GatewayServer received a request from a client
+]]></system-err>
+  </testcase>
+  <testcase name="deadRandomTestFewServer" classname="edu.yu.cs.com3800.stage5.stage5Tests" time="0.001">
+    <error message="java.net.BindException: Address already in use: bind" type="java.lang.RuntimeException">java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadRandomTestFewServer(stage5Tests.java:52)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadRandomTestFewServer(stage5Tests.java:52)
+</error>
+  </testcase>
+  <testcase name="deadLeaderTest" classname="edu.yu.cs.com3800.stage5.stage5Tests" time="0.002">
+    <error message="java.net.BindException: Address already in use: bind" type="java.lang.RuntimeException">java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadLeaderTest(stage5Tests.java:35)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.deadLeaderTest(stage5Tests.java:35)
+</error>
+  </testcase>
+  <testcase name="noErrorTest" classname="edu.yu.cs.com3800.stage5.stage5Tests" time="0.002">
+    <error message="java.net.BindException: Address already in use: bind" type="java.lang.RuntimeException">java.lang.RuntimeException: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.noErrorTest(stage5Tests.java:23)
+Caused by: java.net.BindException: Address already in use: bind
+	at edu.yu.cs.com3800.stage5.stage5Tests.noErrorTest(stage5Tests.java:23)
+</error>
+  </testcase>
+</testsuite>

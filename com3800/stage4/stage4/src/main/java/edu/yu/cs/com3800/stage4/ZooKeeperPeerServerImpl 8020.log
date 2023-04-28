@@ -1,0 +1,796 @@
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Nov 27, 2022 10:29:11 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 4 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 2 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 5 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 6 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 3 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 0 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8020
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 10 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 7 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8010
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8030
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8040
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8050
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8060
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8070
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:8080
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendMessage
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION message to localhost/127.0.0.1:2600
+Nov 27, 2022 10:29:12 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl sendBroadcast
+INFO: ZooKeeperPeerServerImpl: 1 sending ELECTION broadcast message to all peers
+Nov 27, 2022 10:29:13 PM edu.yu.cs.com3800.stage4.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl: 10 in LEADING state, starting leader

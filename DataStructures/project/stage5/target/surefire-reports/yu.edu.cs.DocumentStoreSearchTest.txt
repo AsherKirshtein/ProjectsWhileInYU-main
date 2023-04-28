@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: yu.edu.cs.DocumentStoreSearchTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.06 s <<< FAILURE! - in yu.edu.cs.DocumentStoreSearchTest
+yu.edu.cs.DocumentStoreSearchTest.testUndoCommandSet2  Time elapsed: 0.008 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <1> but was: <0>
+	at yu.edu.cs.DocumentStoreSearchTest.testUndoCommandSet2(DocumentStoreSearchTest.java:184)
+
+yu.edu.cs.DocumentStoreSearchTest.testUndoCommandSet  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <1> but was: <0>
+	at yu.edu.cs.DocumentStoreSearchTest.testUndoCommandSet(DocumentStoreSearchTest.java:167)
+
+yu.edu.cs.DocumentStoreSearchTest.removeCommandSet  Time elapsed: 0.004 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <1> but was: <0>
+	at yu.edu.cs.DocumentStoreSearchTest.removeCommandSet(DocumentStoreSearchTest.java:208)
+

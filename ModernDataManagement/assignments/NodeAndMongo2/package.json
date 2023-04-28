@@ -1,0 +1,15 @@
+{
+  "name": "nodeandmongo2",
+  "version": "1.0.0",
+  "description": "a project to learn to use nodejs and mongodb",
+  "main": "main.js",
+  "scripts": {
+    "test": "test main"
+  },
+  "author": "Asher Kirshtein",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}

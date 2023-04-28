@@ -1,0 +1,20 @@
+Dec 05, 2022 3:37:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl <init>
+INFO: ZooKeeperPeerServerImpl created
+Dec 05, 2022 3:37:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Dec 05, 2022 3:37:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl in LOOKING state, looking for leader
+Dec 05, 2022 3:37:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 05, 2022 3:37:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 05, 2022 3:37:54 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 05, 2022 3:37:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 05, 2022 3:37:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl: 6 in LEADING state, starting leader
+Dec 05, 2022 3:37:55 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
+Dec 05, 2022 3:37:56 PM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: ZooKeeperPeerServerImpl running
